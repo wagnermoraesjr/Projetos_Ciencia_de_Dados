@@ -3,7 +3,7 @@ Neste projeto vamos resolver um problema de negócio de um banco português, que
 <br>
 <br>
 
-![Bank Marketing](URL_da_Imagem)
+![Bank Marketing](fintech-investment-financial-internet-technology-concept.jpg)
 <br>
 <br>
 

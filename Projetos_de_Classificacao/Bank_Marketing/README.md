@@ -55,6 +55,5 @@ Nesse projeto vamos trabalhar apenas com o dataset **bank-additional-full.csv** 
 * **`nr.employed`**: Número de empregados (indicador trimestral).
 * **`y`**: O cliente efetuou um depósito a prazo? (binário: "sim" ou "não"). É a nossa variável target.
 <br>
-<br>
 
-🚀 [**Notebook do Projeto**](URL_do_Link)
+🚀 [**Notebook do Projeto**](https://github.com/wagnermoraesjr/Projetos_Ciencia_de_Dados/blob/main/Projetos_de_Classificacao/Bank_Marketing/Bank_Marketing.ipynb)

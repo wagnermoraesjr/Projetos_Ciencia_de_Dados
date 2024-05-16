@@ -1,8 +1,8 @@
+# **<p align="center">Análise de Crédito para Fintech – PoD Bank</p>**
+
 <p align="center">
   <img src="https://github.com/wagnermoraesjr/Projetos_Ciencia_de_Dados/blob/main/Projetos_de_Modelagem_de_Credito/pod-academy-analise-de-credito-para-fintech/imagens/imagem_capa_01.jpeg" alt="imagem_capa">
 </p>
-
-# **<p align="center">Análise de Crédito para Fintech – PoD Bank</p>**
 
 <br><br>
 ## **Sumário**

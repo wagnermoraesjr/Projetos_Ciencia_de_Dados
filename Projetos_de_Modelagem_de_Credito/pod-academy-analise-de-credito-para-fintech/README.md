@@ -21,7 +21,7 @@
 
 <br><br>
 ## **1.  Resumo Executivo**
-O projeto se baseia em modelagem para concessão de crédito para uma fintech. A PoD Bank, Fintech que concede crédito para população com pouca informação de crédito, precisa de modelos (ML) para concessão de crédito. Este projeto teve como objetivo desenvolver um modelo de crédito eficaz e robusto, capaz de prever com precisão a probabilidade de inadimplência de um cliente. Para isso, foramrealizadas as seguintes etapas:
+O projeto se baseia em modelagem para concessão de crédito para uma fintech. A PoD Bank, Fintech que concede crédito para população com pouca informação de crédito, precisa de modelos (ML) para concessão de crédito. Este projeto teve como objetivo desenvolver um modelo de crédito eficaz e robusto, capaz de prever com precisão a probabilidade de inadimplência de um cliente. Para isso, foram realizadas as seguintes etapas:
 - **Feature Engineering:** Criação de novas variáveis a partir das variáveis existentes para enriquecer o treinamento dos modelos.
 - **Preparação dos Dados:** Realização de uma análise detalhada das variáveis, tratamento dos dados ausentes e preparação as variáveis para o treinamento dos modelos, utilizando técnicas como padronização e codificação de variáveis categóricas. Além de selecionar as variáveis mais importantes para o treinamento do modelo.
 -	**Treinamento do Modelo (Regressão Logística):** Utilizamos a Regressão Logística como primeiro modelo, devido à sua simplicidade e facilidade de interpretação. Obtivemos resultados satisfatórios, com métricas como AUC-ROC, Gini e KS superiores ao modelo baseline.
